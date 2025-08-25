@@ -1,1 +1,1 @@
-# AI-Summarizer-Chrome-Extension-
+# AI-Summarizer-Chrome-Extension
