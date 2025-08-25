@@ -17,7 +17,7 @@ An intuitive Chrome extension that harnesses built-in AI to summarize highlighte
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/srujana-16/AI-Summarizer-Chrome-Extension-.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`.
